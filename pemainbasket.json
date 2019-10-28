@@ -1,0 +1,204 @@
+{
+  "result": [
+    {
+      "id": 1,
+      "name": "Andre Iguodala",
+	  "team": "Memphis Grizzlies",
+      "Position": "Shooting Guard",
+	  "Deskripsi": "Andre Tyler Iguodala (/ɪɡwəˈdɑːlə/ ig-wə-DAH-lə; born January 28, 1984) is an American professional basketball player for the Golden State Warriors of the National Basketball Association (NBA). The swingman was an NBA All-Star in 2012 and has been named to the NBA All-Defensive Team twice. Iguodala won an NBA championship with the Warriors in 2015, when he was named the NBA Finals Most Valuable Player. Iguodala helped the Warriors return to the NBA Finals for a third straight year in 2017, winning his second NBA Championship. He was also a member of the United States national team at the 2010 FIBA World Championship and 2012 Summer Olympics, winning the gold medal both times.\r\n\r\nIguodala went to Lanphier High School in Springfield, Illinois, before attending the University of Arizona. After completing two years, he declared for the 2004 NBA draft, where he was drafted as the ninth overall pick by the Philadelphia 76ers. Iguodala played for Philadelphia until the summer of 2012, when he joined the Denver Nuggets in a four-team trade. He was acquired by Golden State in 2013. In 2014–15, he became a reserve for the first time in his career, but captured the Finals MVP after returning to the starting lineup in the middle of the finals series.",
+      "Poster": "https://www.thesportsdb.com/images/media/player/cutout/q0rkio1550017357.png"
+    },
+    {
+      "id": 2,
+      "name": "Bruno Caboclo",
+	  "team": "Memphis Grizzlies",
+      "Position": "Small Forward",
+	  "Deskripsi": "Bruno Correa Fernandes Caboclo (born September 21, 1995) is a Brazilian professional basketball player for the Memphis Grizzlies of the National Basketball Association (NBA). Standing at 6 ft 9 in (2.06 m), he plays the small forward position.",
+      "Poster": "https://www.thesportsdb.com/images/media/player/cutout/get6771549743777.png"
+    },
+    {
+      "id": 3,
+      "name": "Brandon Clarke",
+	  "team": "Memphis Grizzlies",
+      "Position": "Power Forward",
+	  "Deskripsi": "null",
+      "Poster": "null"
+    },
+    {
+      "id": 4,
+      "name": "De'Anthony Melton",
+	  "team": "Memphis Grizzlies",
+      "Position": "Point Guard",
+	  "Deskripsi": "De'Anthony Melton (born May 28, 1998) is an American professional basketball player for the Phoenix Suns of the National Basketball Association (NBA). He was selected by the Houston Rockets in the second round of the 2018 NBA draft with the 46th pick, but was traded to Phoenix before his rookie season began. He played college basketball for the USC Trojans of the Pac-12 Conference, but did not play in the 2017–18 season due to the events relating to the 2017–18 NCAA Division I men's basketball corruption scandal.",
+      "Poster": "https://www.thesportsdb.com/images/media/player/cutout/kahoya1550444402.png"
+    },
+    {
+      "id": 5,
+      "name": "Dillon Brooks",
+	  "team": "Memphis Grizzlies",
+      "Position": "Shooting Guard",
+	  "Deskripsi": "Dillon Brooks (born January 22, 1996) is a Canadian professional basketball player for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for the Oregon Ducks, where he was named a consensus second-team All-American and earned conference player of the year honours in the Pac-12 in 2017. He is also a member of the Canadian national team.",
+      "Poster": "https://www.thesportsdb.com/images/media/player/cutout/juaisg1549743671.png"
+    },
+    {
+      "id": 6,
+      "name": "Dwight Howard",
+	  "team": "Memphis Grizzlies",
+      "Position": "Center",
+	  "Deskripsi": "Dwight David Howard (born December 8, 1985) is an American professional basketball player for the Charlotte Hornets of the National Basketball Association (NBA). Howard, who plays center, spent his high school career at Southwest Atlanta Christian Academy. He chose to forgo college and entered the 2004 NBA draft, and was selected first overall by the Orlando Magic. An eight-time All-Star, eight-time All-NBA team selection, five-time All-Defensive member, and three-time Defensive Player of the Year, Howard has been ranked consistently as one of the best in the league in rebounds, blocks, field goal percentage and free throw attempts, and has set numerous franchise and league records. He led the Magic to three division titles and one conference title, and he was the winner of the 2008 NBA Slam Dunk Contest. In the 2008 Olympics, he was the starting center for Team USA, which went on to win the gold medal. He was traded to the Los Angeles Lakers in 2012, and signed with the Rockets in 2013.",
+      "Poster": "https://www.thesportsdb.com/images/media/player/cutout/k1x7771550450225.png"
+    },
+    {
+      "id": 7,
+      "name": "Grayson Allen",
+	  "team": "Memphis Grizzlies",
+      "Position": "Shooting Guard",
+	  "Deskripsi": "Grayson James Allen (born October 8, 1995) is an American professional basketball player for the Utah Jazz of the National Basketball Association (NBA). He played college basketball at Duke University.",
+      "Poster": "https://www.thesportsdb.com/images/media/player/cutout/q1l3le1550447736.png"
+    },
+    {
+      "id": 8,
+      "name": "Ivan Rabb",
+	  "team": "Memphis Grizzlies",
+      "Position": "Power Forward",
+	  "Deskripsi": "Ivan Charles Rabb Jr. (born February 4, 1997) is an American professional basketball player for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for the California Golden Bears. Growing up in California, he was named the top high school player in the state as a senior in 2015. He also received national recognition as an All-American. As a college freshman with the Golden Bears, Rabb earned second-team all-conference honors in the Pac-12.",
+      "Poster": "https://www.thesportsdb.com/images/media/player/cutout/d2jgu01549744399.png"
+    },
+    {
+      "id": 9,
+      "name": "J.B. Bickerstaff",
+	  "team": "Memphis Grizzlies",
+      "Position": "Manager",
+	  "Deskripsi": "John-Blair Bickerstaff (born March 10, 1979) is an American basketball coach who is the head coach for the Memphis Grizzlies of the National Basketball Association (NBA). Prior to that, he was the interim head coach for the Houston Rockets and has also been an assistant coach for several NBA teams.",
+      "Poster": "https://www.thesportsdb.com/images/media/player/cutout/9f1xmq1549813298.png"
+    },
+    {
+      "id": 10,
+      "name": "Alex Caruso",
+	  "team": "Los Angeles Lakers",
+      "Position": "Shooting Guard",
+	  "Deskripsi": "Alex Caruso (born February 28, 1994) is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA), on a two-way contract with the South Bay Lakers of the NBA G League. He played college basketball for the Texas A&M Aggies, earning second-team all-conference honors in the Southeastern Conference (SEC) as a senior in 2016.",
+      "Poster": "https://www.thesportsdb.com/images/media/player/cutout/avlm0y1549597847.png"
+    },
+    {
+      "id": 11,
+      "name": "Avery Bradley",
+	  "team": "Los Angeles Lakers",
+      "Position": "Shooting Guard",
+	  "Deskripsi": "Avery Antonio Bradley Jr. (born November 26, 1990) is an American professional basketball player for the Los Angeles Clippers of the National Basketball Association (NBA). He played college basketball for Texas before being drafted 19th overall by the Boston Celtics in the 2010 NBA draft. With the Celtics, he was twice recognized as an NBA All-Defensive Team member. After seven seasons with the Celtics, Bradley was traded to the Detroit Pistons in 2017. In January 2018, he was traded to the Clippers.",
+      "Poster": "https://www.thesportsdb.com/images/media/player/cutout/4l16n81549743559.png"
+    },
+    {
+      "id": 12,
+      "name": "Anthony Davis",
+	  "team": "Los Angeles Lakers",
+      "Position": "Power Forward",
+	  "Deskripsi": "Anthony Marshon Davis Jr. (born March 11, 1993) is an American professional basketball player for the New Orleans Pelicans of the National Basketball Association (NBA). He plays the power forward and center positions. Davis was selected first overall in the 2012 NBA draft by New Orleans, is a four-time NBA All-Star, and has been named to two All-NBA First Teams. He also earned a gold medal playing with Team USA at the 2012 Summer Olympics.\r\n\r\nDavis played one season of college basketball for the University of Kentucky, when he was first team All-American and the Consensus National Player of the Year. He also won the USBWA National Freshman of the Year, NABC Defensive Player of the Year and the Pete Newell Big Man Award. Davis led the NCAA in blocks and set Southeastern Conference and NCAA Division I freshman single-season blocked shots records. Davis led Kentucky to a National Championship and was named Most Outstanding Player of the NCAA tournament.\r\n\r\nHe left college for the NBA after one season and was drafted by New Orleans, then known as the New Orleans Hornets, and was selected that summer to play for the Team USA in the 2012 Olympics. After his rookie season, he was named to the NBA All-Rookie First Team. The next season, he became an All-Star for the first time and led the NBA in blocked shots per game. He has since become a four-time All-Star and the youngest player to score 59 or more points in an NBA game. In 2017, he was named the recipient of the NBA All-Star Game MVP Award after setting an All-Star Game scoring record of 52 points en route.",
+      "Poster": "https://www.thesportsdb.com/images/media/player/cutout/vcdcxo1550000254.png"
+    },
+    {
+      "id": 13,
+      "name": "DeMarcus Cousins",
+	  "team": "Los Angeles Lakers",
+      "Position": "Center",
+	  "Deskripsi": "DeMarcus Amir Cousins (born August 13, 1990) is an American professional basketball player for the Golden State Warriors of the National Basketball Association (NBA). Nicknamed \"Boogie\", he played college basketball for the Kentucky Wildcats, where he was an All-American in 2010. He left Kentucky after one season, and was selected with the fifth overall pick in the 2010 NBA draft by the Sacramento Kings. In his first season with the Kings, Cousins was named to the NBA All-Rookie First Team, and from 2015 to 2018, he was named an NBA All-Star. He is also a two-time gold medal winner as a member of the United States national team, winning his first in 2014 at the FIBA Basketball World Cup and his second in 2016 at the Rio Olympics.",
+      "Poster": "https://www.thesportsdb.com/images/media/player/cutout/z97yl61550017026.png"
+    },
+    {
+      "id": 14,
+      "name": "Jared Dudley",
+	  "team": "Los Angeles Lakers",
+      "Position": "Small Forward",
+	  "Deskripsi": "Jared Anthony Dudley (born July 10, 1985) is an American professional basketball player for the Brooklyn Nets of the National Basketball Association (NBA). He has also played for the Charlotte Bobcats, Phoenix Suns, Los Angeles Clippers, Milwaukee Bucks and Washington Wizards. Standing at 6 ft 7 in (2.01 m), he plays as a forward.",
+      "Poster": "https://www.thesportsdb.com/images/media/player/cutout/ksmw7u1550089332.png"
+    },
+	{
+      "id": 15,
+      "name": "Johnathan Williams",
+	  "team": "Los Angeles Lakers",
+      "Position": "Power Forward",
+	  "Deskripsi": "Johnathan Lee Williams III (born May 22, 1995) is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA). He played college basketball for the Gonzaga Bulldogs. He spent two seasons with the University of Missouri Tigers men's basketball team before deciding to transfer before the 2015–16 season.",
+      "Poster": "https://www.thesportsdb.com/images/media/player/cutout/4tyv6u1549598402.png"
+    },
+	{
+      "id": 16,
+      "name": "Bam Adebayo",
+	  "team": "Miami Heat",
+      "Position": "Center",
+	  "Deskripsi": "Edrice Femi \"Bam\" Adebayo (born July 18, 1997), is an American professional basketball player for the Miami Heat of the National Basketball Association (NBA). He played one season of college basketball for the University of Kentucky, before He was taken 14th overall in the 2017 NBA draft by the Miami Heat.",
+      "Poster": "https://www.thesportsdb.com/images/media/player/cutout/j03fg71549777732.png"
+    },
+	{
+      "id": 17,
+      "name": "Derrick Jones Jr.",
+	  "team": "Miami Heat",
+      "Position": "Small Forward",
+	  "Deskripsi": "Derrick Labrent Jones Jr. (born February 15, 1997) is an American professional basketball player for the Miami Heat of the National Basketball Association (NBA). He played one season of college basketball for the UNLV Runnin' Rebels before joining the Phoenix Suns in 2016.",
+      "Poster": "https://www.thesportsdb.com/images/media/player/cutout/si0cg61549777843.png"
+    },
+	{
+      "id": 18,
+      "name": "Dion Waiters",
+	  "team": "Miami Heat",
+      "Position": "Shooting Guard",
+	  "Deskripsi": "Dion Waiters (born December 10, 1991) is an American professional basketball player for the Miami Heat of the National Basketball Association (NBA). He played college basketball for Syracuse and was selected with the fourth overall pick in the 2012 NBA draft by the Cleveland Cavaliers.",
+      "Poster": "https://www.thesportsdb.com/images/media/player/cutout/4r9vxb1549777999.png"
+    },
+	{
+      "id": 19,
+      "name": "Emanuel Terry",
+	  "team": "Miami Heat",
+      "Position": "Forward",
+	  "Deskripsi": "Emanuel Terry (born August 25, 1995) is an American professional basketball player for the Miami Heat of the National Basketball Association (NBA). He played college basketball at Lincoln Memorial University, where he was a Division II All-American in 2018.",
+      "Poster": "https://www.thesportsdb.com/images/media/player/cutout/gtptle1550687726.png"
+    },
+	{
+      "id": 20,
+      "name": "Goran Dragić",
+	  "team": "Miami Heat",
+      "Position": "Point Guard",
+	  "Deskripsi": "Goran Dragić (born 6 May 1986) is a Slovenian professional basketball player for the Miami Heat of the National Basketball Association (NBA). He plays at both the point guard and shooting guard positions. He played professional basketball in Slovenia and Spain before entering the NBA in 2008. Dragić has played for the Phoenix Suns twice, the Houston Rockets, and the Miami Heat. He was an All-NBA Third Team selection and the NBA Most Improved Player in 2014.",
+      "Poster": "https://www.thesportsdb.com/images/media/player/cutout/5pfby41549777775.png"
+    },
+	{
+      "id": 21,
+      "name": "Cristiano Felício",
+	  "team": "Chicago Bull",
+      "Position": "Point Guard",
+	  "Deskripsi": "Cristiano Silva Felício (born July 7, 1992) is a Brazilian professional basketball player who currently plays for the Chicago Bulls of the National Basketball Association (NBA). He previously played in his home country of Brazil for Minas Tênis Clube and Flamengo.",
+      "Poster": "https://www.thesportsdb.com/images/media/player/cutout/rc2dc81550049495.png"
+    },
+	{
+      "id": 22,
+      "name": "Antonio Blakeney",
+	  "team": "Chicago Bull",
+      "Position": "Shooting Guard",
+	  "Deskripsi": "Antonio Davon Blakeney (born October 4, 1996) is an American professional basketball player for the Chicago Bulls of the National Basketball Association (NBA). He played college basketball for the LSU Tigers.",
+      "Poster": "https://www.thesportsdb.com/images/media/player/cutout/z6l9dl1550049461.png"
+    },
+	{
+      "id": 23,
+      "name": "Brandon Sampson",
+	  "team": "Chicago Bull",
+      "Position": "Shooting Guard",
+	  "Deskripsi": "Brandon Sampson (Born May 1, 1997) is an American basketball player for the Chicago Bulls of the National Basketball Association (NBA), on a two-way contract with the Windy City Bulls of the NBA G League. He played college basketball for Louisiana State University (LSU).",
+      "Poster": 	"https://www.thesportsdb.com/images/media/player/cutout/cxnfep1550049679.png"
+    },
+	{
+      "id": 24,
+      "name": "Chandler Hutchison",
+	  "team": "Chicago Bull",
+      "Position": "Small Forward",
+	  "Deskripsi": "Chandler Hutchison (born April 26, 1996) is an American professional basketball player for the Chicago Bulls of the National Basketball Association (NBA). He played college basketball at Boise State.",
+      "Poster": "https://www.thesportsdb.com/images/media/player/cutout/fohrjb1550049523.png"
+    },
+	{
+      "id": 25,
+      "name": "Wendell Carter Jr.",
+	  "team": "Chicago Bull",
+      "Position": "Center",
+	  "Deskripsi": "Wendell Andre Carter Jr. (born April 16, 1999) is an American professional basketball player for the Chicago Bulls of the National Basketball Association (NBA). He played college basketball for the Duke Blue Devils.",
+      "Poster": "https://www.thesportsdb.com/images/media/player/cutout/l6mqkp1550049554.png"
+    }
+  ]
+}
